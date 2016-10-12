@@ -24,17 +24,19 @@
 					Hello and welcome to my personal web page! Allow me to introduce myself, My name is Hector Lozano. I am
 					a former critical care flight paramedic and navy corpsman.
 				</p>
-				<img src="img/" alt="femninja">
+				<img src="img/helo1.JPG" alt="helo1"/>
+				<img src="img/helo2.JPG" alt="helo2"/>
+				<!-- Need to add image here -->
 			</section>
 
 			<!-- begin section 2 -->
 			<section>
 				<h2> My Favorite Things</h2>
 				<ul>
-					<li>Senator Arlo</li>
-					<li>Star Wars</li>
-					<li>Beer</li>
-					<li>Donuts</li>
+					<li></li>
+					<li></li>
+					<li></li>
+					<li></li>
 				</ul>
 			</section>
 
