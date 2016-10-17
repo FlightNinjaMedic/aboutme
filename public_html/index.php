@@ -24,8 +24,7 @@
 					Hello and welcome to my personal web page! Allow me to introduce myself, My name is Hector Lozano. I am
 					a former critical care flight paramedic and navy corpsman.
 				</p>
-				<img src="img/helo1.JPG" alt="helo1"/>
-				<img src="img/helo2.JPG" alt="helo2"/>
+				<img src="img/mehelo.JPG" alt="mehelo"/>
 				<!-- Need to add image here -->
 			</section>
 
