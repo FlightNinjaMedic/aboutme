@@ -1,9 +1,31 @@
+/* tag selector */
+
+h1 {
+	color: blue;
+}
+
 body {
 	color: crimson;
 	font-size: 1.2em;
 	padding: 1em;
 }
 
-h1 {
-	color: blue;
+#bg-blue {
+	background-color: gray;
+}
+
+/* class selector */
+
+.bg-gray {
+	background-color: gray;
+}
+
+
+
+
+
+/* id selector */
+
+#page-title {
+	color: cyan;
 }
