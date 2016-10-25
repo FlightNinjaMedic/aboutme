@@ -11,7 +11,7 @@
 
 		<!-- this is the header -->
 		<header>
-			<h1>Hi! This is my page.</h1>
+			<h1 id="page-title">Hi! This is my page.</h1>
 		</header>
 
 		<!-- this is the main page content -->
@@ -19,12 +19,12 @@
 
 			<!-- begin section 1 -->
 
-			<section>
+			<section class="bg-gray text-red">
 				<p>
 					Hello and welcome to my personal web page! Allow me to introduce myself, My name is Hector Lozano. I am
 					a former critical care flight paramedic and navy corpsman.
 				</p>
-				<img src="img/mehelo.JPG" alt="mehelo"/>
+
 				<!-- Need to add image here -->
 			</section>
 
@@ -32,15 +32,15 @@
 			<section>
 				<h2> My Favorite Things</h2>
 				<ul>
-					<li></li>
-					<li></li>
-					<li></li>
-					<li></li>
+					<li>Skiing</li>
+					<li>Camping</li>
+					<li>Fishing</li>
+					<li>Fine Wine</li>
 				</ul>
 			</section>
 
 			<!-- begin section 3-->
-			<section>
+			<section class="bg-gray" >
 				<table>
 					<tr>
 						<th>Column One</th>
@@ -48,20 +48,20 @@
 					</tr>
 
 					<tr>
-						<td>Cat</td>
-						<td>Car</td>
+						<td></td>
+						<td></td>
 
 					</tr>
 
 					<tr>
-						<td>Dog</td>
-						<td>Bike</td>
+						<td></td>
+						<td></td>
 
 					</tr>
 
 					<tr>
-						<td>Star Wars</td>
-						<td>Wine</td>
+						<td></td>
+						<td></td>
 					</tr>
 				</table>
 			</section>
