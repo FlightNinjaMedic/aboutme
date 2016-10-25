@@ -1,15 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
+
 		<meta charset="UTF-8"/>
 
 		<!-- add CSS file -->
 		<link href="css/stylesheet.css" rel="stylesheet" type="text/css"/>
 		<title>HTML Sandbox</title>
+		<!-- this is the header -->
 	</head>
 	<body>
 
-		<!-- this is the header -->
 		<header>
 			<h1 id="page-title">Hi! This is my page.</h1>
 		</header>
@@ -19,6 +20,10 @@
 
 			<!-- begin section 1 -->
 
+			<section>
+				<img src="img/helo2.JPG" alt="helo2"/>
+			</section>
+
 			<section class="bg-gray text-red">
 				<p>
 					Hello and welcome to my personal web page! Allow me to introduce myself, My name is Hector Lozano. I am
@@ -26,6 +31,7 @@
 				</p>
 
 				<!-- Need to add image here -->
+
 			</section>
 
 			<!-- begin section 2 -->
