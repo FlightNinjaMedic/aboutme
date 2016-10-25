@@ -21,7 +21,7 @@
 			<!-- begin section 1 -->
 
 			<section>
-				<img src="img/helo2.JPG" alt="helo2"/>
+				<img src="img/helo2fr.jpg" alt="helo2fr"/>
 			</section>
 
 			<section class="bg-gray text-red">
