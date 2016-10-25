@@ -29,3 +29,11 @@ body {
 #page-title {
 	color: firebrick;
 }
+
+.box-model {
+	color: black;
+	background-color: mediumslateblue;
+	padding: 2rem;
+	margin: 2rem;
+	border: 5px solid deeppink;
+}

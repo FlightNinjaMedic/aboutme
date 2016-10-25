@@ -71,6 +71,12 @@
 					</tr>
 				</table>
 			</section>
+
+			<! -- start the box model>
+			<div class="box-model">
+
+			<p> I am a devil doc</p>
+
 		</main>
 	</body>
 </html>
