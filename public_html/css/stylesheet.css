@@ -2,6 +2,7 @@
 
 h1 {
 	color: firebrick;
+	background-color: lightskyblue;.
 }
 
 body {
@@ -11,13 +12,13 @@ body {
 }
 
 #bg-blue {
-	background-color: gray;
+	background-color: green;
 }
 
 /* class selector */
 
 .bg-gray {
-	background-color: gray;
+	background-color: green;
 }
 
 
