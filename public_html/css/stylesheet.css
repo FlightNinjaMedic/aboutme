@@ -6,10 +6,12 @@ h1 {
 }
 
 body {
-	color: orange;
+	background-color: lightskyblue;
 	font-size: 1.2em;
 	padding: 1em;
 }
+
+
 
 #bg-blue {
 	background-color: green;

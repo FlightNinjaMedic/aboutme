@@ -4,6 +4,9 @@
 
 		<meta charset="UTF-8"/>
 
+		<!-- meta viewport tag -->
+		<meta name="viewport" content="width=device-width, initial-scale=1"/>
+
 		<!-- add CSS file -->
 		<link href="css/stylesheet.css" rel="stylesheet" type="text/css"/>
 		<title>HTML Sandbox</title>
